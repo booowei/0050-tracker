@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>0050 成分股追蹤</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="bar"><a class="brand" href="index.html">0050 成分股追蹤</a><span id="updated" class="muted"></span></header>
+<main>
+  <h1>0050 成分股總覽</h1>
+  <p class="muted">點選公司查看財報與三大法人籌碼;點選欄位標題可排序。</p>
+  <input id="q" class="search" type="search" placeholder="搜尋代號或名稱">
+  <div class="scroll">
+    <table id="tbl">
+      <thead><tr>
+        <th data-k="code">代號</th><th data-k="name">名稱</th><th data-k="industry">產業</th>
+        <th data-k="weight" class="num">權重 %</th><th data-k="eps" class="num">最新 EPS</th><th data-k="net" class="num">近5日合計買賣超(張)</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</main>
+<footer>本站資料僅供學習與整理,不構成投資建議。</footer>
+<script src="js/utils.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

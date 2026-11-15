@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>個股 | 0050 成分股追蹤</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="bar"><a class="brand" href="index.html">0050 成分股追蹤</a><span id="updated" class="muted"></span></header>
+<main>
+  <a href="index.html" class="muted">← 回總覽</a>
+  <h1 id="title">載入中…</h1>
+  <section>
+    <h2>季度財報</h2>
+    <div class="scroll"><table id="fin"><thead><tr><th>季度</th><th class="num">營收(億)</th><th class="num">毛利率 %</th><th class="num">稅後淨利(億)</th><th class="num">EPS</th></tr></thead><tbody></tbody></table></div>
+    <div class="chartbox"><canvas id="epsChart"></canvas></div>
+  </section>
+  <section>
+    <h2>三大法人買賣超(張)</h2>
+    <div class="chartbox"><canvas id="chipChart"></canvas></div>
+    <div class="scroll"><table id="chip"><thead><tr><th>日期</th><th class="num">外資</th><th class="num">投信</th><th class="num">自營商</th></tr></thead><tbody></tbody></table></div>
+  </section>
+</main>
+<footer>本站資料僅供學習與整理,不構成投資建議。</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/stock.js"></script>
+</body>
+</html>
