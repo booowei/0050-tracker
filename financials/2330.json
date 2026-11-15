@@ -1,0 +1,110 @@
+{
+ "code": "2330",
+ "quarters": [
+  {
+   "period": "2023Q1",
+   "revenue": 5086.33,
+   "gross_margin": 56.33,
+   "net_income": 2069.49,
+   "eps": 7.98
+  },
+  {
+   "period": "2023Q2",
+   "revenue": 4808.41,
+   "gross_margin": 54.11,
+   "net_income": 1817.17,
+   "eps": 7.01
+  },
+  {
+   "period": "2023Q3",
+   "revenue": 5467.33,
+   "gross_margin": 54.26,
+   "net_income": 2107.95,
+   "eps": 8.14
+  },
+  {
+   "period": "2023Q4",
+   "revenue": 6255.29,
+   "gross_margin": 53.04,
+   "net_income": 2383.06,
+   "eps": 9.21
+  },
+  {
+   "period": "2024Q1",
+   "revenue": 5926.44,
+   "gross_margin": 53.07,
+   "net_income": 2252.21,
+   "eps": 8.7
+  },
+  {
+   "period": "2024Q2",
+   "revenue": 6735.1,
+   "gross_margin": 53.17,
+   "net_income": 2476.61,
+   "eps": 9.56
+  },
+  {
+   "period": "2024Q3",
+   "revenue": 7596.92,
+   "gross_margin": 57.83,
+   "net_income": 3250.8,
+   "eps": 12.55
+  },
+  {
+   "period": "2024Q4",
+   "revenue": 8684.61,
+   "gross_margin": 59.0,
+   "net_income": 3744.69,
+   "eps": 14.45
+  },
+  {
+   "period": "2025Q1",
+   "revenue": 8392.54,
+   "gross_margin": 58.79,
+   "net_income": 3607.33,
+   "eps": 13.95
+  },
+  {
+   "period": "2025Q2",
+   "revenue": 9337.92,
+   "gross_margin": 58.62,
+   "net_income": 3974.93,
+   "eps": 15.36
+  },
+  {
+   "period": "2025Q3",
+   "revenue": 9899.18,
+   "gross_margin": 59.45,
+   "net_income": 4517.55,
+   "eps": 17.44
+  },
+  {
+   "period": "2025Q4",
+   "revenue": 10460.9,
+   "gross_margin": 62.33,
+   "net_income": 5054.15,
+   "eps": 19.51
+  },
+  {
+   "period": "2026Q1",
+   "revenue": 11341.03,
+   "gross_margin": 66.25,
+   "net_income": 5728.01,
+   "eps": 22.08
+  },
+  {
+   "period": "2026Q2",
+   "revenue": 12703.8,
+   "gross_margin": 67.72,
+   "net_income": 7067.81,
+   "eps": 27.25
+  },
+  {
+   "period": "2026Q3",
+   "revenue": 14942.43,
+   "gross_margin": 66.41,
+   "net_income": 7633.41,
+   "eps": 29.43
+  }
+ ]
+}
