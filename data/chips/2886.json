@@ -1,0 +1,233 @@
+{
+ "code": "2886",
+ "daily": [
+  {
+   "date": "2026-09-16",
+   "foreign": -1771630,
+   "investment_trust": 883000,
+   "dealer": 345019
+  },
+  {
+   "date": "2026-09-17",
+   "foreign": 1750413,
+   "investment_trust": 3715000,
+   "dealer": 471067
+  },
+  {
+   "date": "2026-09-18",
+   "foreign": 2500838,
+   "investment_trust": -5024975,
+   "dealer": 1037526
+  },
+  {
+   "date": "2026-09-21",
+   "foreign": 2871980,
+   "investment_trust": 567002,
+   "dealer": 83181
+  },
+  {
+   "date": "2026-09-22",
+   "foreign": 12736350,
+   "investment_trust": -4781067,
+   "dealer": 467504
+  },
+  {
+   "date": "2026-09-23",
+   "foreign": 4641259,
+   "investment_trust": -3276000,
+   "dealer": 551117
+  },
+  {
+   "date": "2026-09-24",
+   "foreign": -1019173,
+   "investment_trust": 359000,
+   "dealer": 640769
+  },
+  {
+   "date": "2026-09-29",
+   "foreign": -3664530,
+   "investment_trust": 487000,
+   "dealer": 1565023
+  },
+  {
+   "date": "2026-09-30",
+   "foreign": -2200235,
+   "investment_trust": 492000,
+   "dealer": 650672
+  },
+  {
+   "date": "2026-10-01",
+   "foreign": 14469895,
+   "investment_trust": -1895000,
+   "dealer": 1078907
+  },
+  {
+   "date": "2026-10-02",
+   "foreign": 13683716,
+   "investment_trust": 2421501,
+   "dealer": 1504841
+  },
+  {
+   "date": "2026-10-05",
+   "foreign": 3598995,
+   "investment_trust": -5455334,
+   "dealer": 272405
+  },
+  {
+   "date": "2026-10-06",
+   "foreign": 12514743,
+   "investment_trust": -5472000,
+   "dealer": 567302
+  },
+  {
+   "date": "2026-10-07",
+   "foreign": 7347946,
+   "investment_trust": -6177586,
+   "dealer": 342304
+  },
+  {
+   "date": "2026-10-08",
+   "foreign": 10105597,
+   "investment_trust": -5228334,
+   "dealer": 1299004
+  },
+  {
+   "date": "2026-10-12",
+   "foreign": 7866730,
+   "investment_trust": -4882000,
+   "dealer": 1187565
+  },
+  {
+   "date": "2026-10-13",
+   "foreign": 16699573,
+   "investment_trust": -5922000,
+   "dealer": 1582524
+  },
+  {
+   "date": "2026-10-14",
+   "foreign": 9917368,
+   "investment_trust": -6721144,
+   "dealer": 260527
+  },
+  {
+   "date": "2026-10-15",
+   "foreign": 21614224,
+   "investment_trust": 3996000,
+   "dealer": 8184451
+  },
+  {
+   "date": "2026-10-16",
+   "foreign": 14329749,
+   "investment_trust": -3826996,
+   "dealer": 1587475
+  },
+  {
+   "date": "2026-10-19",
+   "foreign": 1173176,
+   "investment_trust": 2286813,
+   "dealer": 3952243
+  },
+  {
+   "date": "2026-10-20",
+   "foreign": -749438,
+   "investment_trust": -1180695,
+   "dealer": 3203256
+  },
+  {
+   "date": "2026-10-21",
+   "foreign": 4727221,
+   "investment_trust": -1495765,
+   "dealer": 1550436
+  },
+  {
+   "date": "2026-10-22",
+   "foreign": 7119295,
+   "investment_trust": -1471000,
+   "dealer": 4030384
+  },
+  {
+   "date": "2026-10-27",
+   "foreign": 2088345,
+   "investment_trust": -4554806,
+   "dealer": 1216406
+  },
+  {
+   "date": "2026-10-28",
+   "foreign": 2787306,
+   "investment_trust": -5979962,
+   "dealer": 664157
+  },
+  {
+   "date": "2026-10-29",
+   "foreign": 7768271,
+   "investment_trust": -5477941,
+   "dealer": 260236
+  },
+  {
+   "date": "2026-10-30",
+   "foreign": 1633875,
+   "investment_trust": 730000,
+   "dealer": 2384798
+  },
+  {
+   "date": "2026-11-02",
+   "foreign": 4666855,
+   "investment_trust": -1273016,
+   "dealer": 1383022
+  },
+  {
+   "date": "2026-11-03",
+   "foreign": 6602554,
+   "investment_trust": 3020000,
+   "dealer": 3400523
+  },
+  {
+   "date": "2026-11-04",
+   "foreign": -502681,
+   "investment_trust": 7425251,
+   "dealer": 3807991
+  },
+  {
+   "date": "2026-11-05",
+   "foreign": -7459881,
+   "investment_trust": 8161937,
+   "dealer": 5260071
+  },
+  {
+   "date": "2026-11-06",
+   "foreign": -6071666,
+   "investment_trust": 3335961,
+   "dealer": 8678134
+  },
+  {
+   "date": "2026-11-09",
+   "foreign": 4438854,
+   "investment_trust": 2084122,
+   "dealer": 1962155
+  },
+  {
+   "date": "2026-11-10",
+   "foreign": 10041823,
+   "investment_trust": 6000,
+   "dealer": -56496
+  },
+  {
+   "date": "2026-11-11",
+   "foreign": 13367466,
+   "investment_trust": -2508000,
+   "dealer": -319551
+  },
+  {
+   "date": "2026-11-12",
+   "foreign": 9590514,
+   "investment_trust": -8066000,
+   "dealer": 613531
+  },
+  {
+   "date": "2026-11-13",
+   "foreign": 9483079,
+   "investment_trust": -7932000,
+   "dealer": 1059559
+  }
+ ]
+}
